@@ -52,7 +52,8 @@ Follow these easy steps to get started with **Deployify**:
 
 - **Kishore Muruganantham** ([@KishoreMuruganantham](https://github.com/KishoreMuruganantham))  
 - **Ananda** ([@Bottleneck44](https://github.com/Bottleneck44))  
-- **Mukundh A P** ([@MukundhArul](https://github.com/MukundhArul))  
+- **Mukundh A P** ([@MukundhArul](https://github.com/MukundhArul))
+- **Mugundhan Y** ([@MugundhanY](https://github.com/MugundhanY))
 
 ### License 📝
 
